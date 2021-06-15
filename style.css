@@ -26,6 +26,9 @@ a{
     color: white;
     font-weight: bold;
 }
+.nav-item{
+    color: white;
+}
 .dropdown-item {
     display: block;
     width: 100%;

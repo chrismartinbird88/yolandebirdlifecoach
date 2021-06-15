@@ -8,6 +8,7 @@ body{
 nav{
     width: 100%;
     height: fit-content;
+    color: white;
 }
 .navbar-brand{
     margin-top: 0%;

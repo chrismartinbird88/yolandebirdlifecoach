@@ -15,10 +15,10 @@ body{
 }
 
 .navbar .navbar-brand p{
+    color:white;
     font-size: 18pt;
     font-weight: bold;
     padding-top: 10px;
-    color:white;
 }
 
 .navbar a{

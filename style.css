@@ -1,0 +1,204 @@
+body{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    background: #ffb76b; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #ffb76b 0%, #ffffff 22%, #ffa73d 43%, #ffffff 60%, #ff7c00 79%, #ffffff 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #ffb76b 0%,#ffffff 22%,#ffa73d 43%,#ffffff 60%,#ff7c00 79%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #ffb76b 0%,#ffffff 22%,#ffa73d 43%,#ffffff 60%,#ff7c00 79%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb76b', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */;
+}
+
+.navbar{
+    background-color: darkgreen;
+    font-weight: bold;
+}
+
+.navbar a{
+    color: white;
+    font-size: 1.5em;
+    background-color: darkgreen;
+    text-decoration: underline;
+}
+
+h1{
+    color: black;
+    font-weight: bolder;
+    font-size: 2em;
+    text-align: center;
+}
+
+.sub-heading{
+    text-align: center;
+    font-size: 1.3ems;
+    color: black;
+}
+
+.title{
+    text-align: center;
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+
+.card{
+    color: white;
+    background-color: darkgreen;
+    padding: 2%;
+    box-shadow: 5px 5px 5px 5px darkgrey;
+    text-align: center;
+}
+
+.card blockquote{
+    color: white;
+    background-color: darkgreen;
+    font-size: 1.2em;
+}
+
+.card-header{
+    box-shadow: none;
+}
+
+p{
+    font-size: 1.3em;
+}
+
+.card-header-title{
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-left: 28%;
+}
+
+.card-image{
+    margin-left: 5%;
+    width: 90%;
+}
+
+.card-footer{
+    box-shadow: none;
+    border: none;
+}
+
+.card-footer a{
+    font-size: 1.4em;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.title{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+#bio{
+    vertical-align: middle;
+}
+
+.notification{
+    background-color: darkgreen;
+}
+
+ul li{
+    text-align: justify;
+    list-style: circle;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+dl{
+    text-align: left;
+}
+
+.tile .is-parent .is-child .about{
+    background-color: darkgreen;
+}
+
+article{
+    color: white;
+    background-color: darkgreen;
+    width: 100%;
+    box-shadow: 5px 5px 5px 5px darkgray;
+    text-align: justify;
+    padding: 5%;
+}
+
+article h2{
+    color: white;
+    font-weight: bold;
+}
+
+#clipboard{
+    height: 610px;
+}
+
+.footer{
+    background-color: darkgreen;
+    color: white;
+    font-weight: bold;
+}
+
+.heading{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.rate{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.tabs{
+    background-color: darkgreen;
+}
+
+.tabs ul li a{
+    color: white;
+}
+
+#tab-content a{
+    color: white;
+    text-decoration: underline;
+}
+
+#ba{
+    background-color: darkgreen;
+    color: white;
+    padding: 3%;
+    text-align: center;
+}
+
+#hon{
+    background-color: darkgreen;
+    color: white;   
+    padding: 3%;
+    text-align: center;
+}
+
+#lifecoach{
+    background-color: darkgreen;
+    color: white;
+    padding: 3%;
+    text-align: center;
+}
+
+.notfound{
+    font-size: 72pt;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}

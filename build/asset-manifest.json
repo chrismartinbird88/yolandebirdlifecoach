@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5476c7bd.css",
+    "main.js": "/static/js/main.c507808c.js",
+    "static/js/787.3e0ec4f7.chunk.js": "/static/js/787.3e0ec4f7.chunk.js",
+    "static/media/logo.webp": "/static/media/logo.02048f778adec349117a.webp",
+    "static/media/yolandebird.webp": "/static/media/yolandebird.c51f71382f4aaa36a0d9.webp",
+    "static/media/pexels-natasha-fernandez-811575.webp": "/static/media/pexels-natasha-fernandez-811575.c1de8a58c1938716b74b.webp",
+    "static/media/pexels-emily-ranquist-1205651.webp": "/static/media/pexels-emily-ranquist-1205651.bfc32b592e2f347e9b45.webp",
+    "static/media/pexels-christina-morillo-1181719.webp": "/static/media/pexels-christina-morillo-1181719.4ffe727c198763cc45ca.webp",
+    "static/media/pexels-anthony-shkraba-5206297.webp": "/static/media/pexels-anthony-shkraba-5206297.5f232ff8123bc0d706f1.webp",
+    "index.html": "/index.html",
+    "main.5476c7bd.css.map": "/static/css/main.5476c7bd.css.map",
+    "main.c507808c.js.map": "/static/js/main.c507808c.js.map",
+    "787.3e0ec4f7.chunk.js.map": "/static/js/787.3e0ec4f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5476c7bd.css",
+    "static/js/main.c507808c.js"
+  ]
+}

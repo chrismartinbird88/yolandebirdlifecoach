@@ -1,0 +1,177 @@
+/* General Styles */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: bold;
+  text-align: center;
+  z-index: inherit;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  overflow-x: hidden;
+  position: relative;
+  background: linear-gradient(135deg,
+    #ffb76b 0%,
+    #ffffff 22%,
+    #ffa73d 43%,
+    #ffffff 60%,
+    #ff7c00 79%,
+    #ffffff 100%);
+  background-size: cover !important;
+}
+
+h1, h2, h3, h4, h5, h6{
+  padding-top: 10px;
+  text-align: center;
+}
+
+p, li{
+  font-size: 1.3em;
+}
+
+/* Navbar Styles */
+
+nav.navbar{
+  padding: 2px;
+  position: fixed;
+  width: 100%;
+  height: 90px;
+  margin-top: 0%;
+  z-index: 9999 !important;
+}
+
+.logo{
+  width: 50px;
+  height: 50px;
+}
+
+span{
+  font-size: 1.1em;
+  padding: 20px;
+}
+
+.navbar{
+  background: darkgreen;
+}
+
+.navbar span{
+  text-decoration: none;
+  font-size: 1.5em;
+  color: #ffffff;
+}
+
+.navbar-brand img{
+  height: 50px;
+  width: 50px;
+}
+
+.navbar-nav a{
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 80%;
+  z-index: auto;
+  text-decoration: none;
+  margin-right: 20px;
+  color: #ffffff;
+}
+
+.navbar-toggler-icon{
+  background-color: #ffffff;
+}
+
+/* Home Styles */
+
+.accordion .accordion-item .accordion-header .accordion-button{
+  width: 90%;
+  margin-left: 5%;
+  font-size: 20pt;
+}
+
+ul{
+  list-style: none;
+}
+
+.box{
+  width: 90%;
+  margin-left: 5%;
+  background-color: darkgreen;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 20px;
+  box-shadow: 5px 5px 5px 5px lightgreen;
+}
+
+.container #home{
+  margin-top: 50px;
+}
+
+/* About Styles */
+
+#bio{
+  padding: 11%;
+}
+
+/* Qualifications */
+
+.carousel .carousel-item{
+  padding: 25px;
+  height: fit-content;
+}
+
+.grad{
+  height: 500px !important;
+}
+
+.carousel-caption{
+  padding: 25px;
+  font-size: 0.75em;
+}
+
+/* Benefits Styles */
+
+#benefit-list li{
+  list-style-type: disc;
+  text-align: left !important;
+}
+
+/* Map Styles */
+
+#map{
+  width: 90%;
+  margin-left: 5%;
+}
+
+/* Contact Styles */
+
+#contact{
+  width: 90%;
+  margin-left: 5%;
+}
+
+.button{
+  padding: 10px;
+  border-radius: 25%;
+  box-shadow: 1px 1px 1px 1px lightgray;
+}
+
+
+
+input, textarea{
+  width: 100%;
+  background:#ffa73d !important;
+  font-size: 1.5em !important;
+}
+
+.accordion .accordion-item .accordion-header, .accordion-body{
+  background:#ffa73d !important;
+}
+
+.accordion-button{
+  background: transparent !important;
+}
